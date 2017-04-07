@@ -4,7 +4,7 @@ Console TicTacToe
 
 ## Installation
 
-This was a very old project and was my first attempts to use a Makefile. Please replace <make> with your make program.
+This was a very old project and was my first attempts to use a Makefile. Please replace `<make>` with your make program.
 
 To compile:
 1. `<make> main`
