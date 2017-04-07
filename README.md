@@ -1,12 +1,12 @@
-# Project Name
+# Console TicTacToe
 
-Console TicTacToe
+A simple game of console TicTacToe
 
 ## Installation
 
 This was a very old project and was my first attempts to use a Makefile. Please replace `<make>` with your make program.
 
-To compile:
+To compile run all of these commands:
 1. `<make> main`
 2. `<make> board`
 3. `<make> computerAI`
