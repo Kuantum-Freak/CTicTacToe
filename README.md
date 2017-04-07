@@ -6,7 +6,7 @@ Console TicTacToe
 
 This was a very old project and was my first attempts to use a Makefile. Please replace <make> with your make program.
 
-To Compile
+To compile:
 1. `<make> main`
 2. `<make> board`
 3. `<make> computerAI`
