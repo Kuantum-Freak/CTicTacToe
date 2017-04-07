@@ -1,17 +1,19 @@
 # Project Name
 
-CTicTacToe
+Console TicTacToe
 
 ## Installation
 
 This was a very old project and was my first attempts to use a Makefile. Please replace <make> with your make program.
+
 To Compile
-`<make> main`
-`<make> board`
-`<make> computerAI`
-`<make> gameFunc`
+1. `<make> main`
+2. `<make> board`
+3. `<make> computerAI`
+4. `<make> gameFunc`
+
 And finally to link it all together:
-`<make> prgm`
+1. `<make> prgm`
 
 ## Usage
 
